@@ -14,7 +14,7 @@ Group Number:
 6
 
 Group Members:
-21266004	Sadia Afrose
-21366035	Md. Sabbir Ahmed
-22166003	Ashik Adnan
-22166009	Nazifa Khanom
+21266004    Sadia Afrose
+21366035    Md. Sabbir Ahmed
+22166003    Ashik Adnan
+22166009    Nazifa Khanom
