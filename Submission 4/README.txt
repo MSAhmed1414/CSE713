@@ -5,7 +5,7 @@ Conference submitted paper / paper submission / login Link:
 ....
 
 Paper title:
-Comparative analysis of interpretable mushroom classification using several ML models
+Comparative Analysis of Interpretable Mushroom Classification using Several Machine Learning Models
 
 Paper presentation (anyone can view without login):
 ....
