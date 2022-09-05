@@ -8,7 +8,7 @@ Paper title:
 Comparative Analysis of Interpretable Mushroom Classification using Several Machine Learning Models
 
 Paper presentation (anyone can view without login):
-....
+https://docs.google.com/presentation/d/1QkVspkx6AOeT1ozjhWFp5DD9-2ZQHEUEh6ol64Plzlw/edit?usp=sharing
 
 Paper submission date (to workshop/conference):
 
