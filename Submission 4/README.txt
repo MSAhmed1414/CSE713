@@ -2,7 +2,7 @@ Unlisted youtube video:
 https://youtu.be/_mN3s3sh_bk
 
 Conference submitted paper / paper submission / login Link:
-https://easychair.org/conferences/?conf=dmbd2022
+https://cmt3.research.microsoft.com/ICCIT2022/Submission/Index
 
 Paper title:
 Comparative Analysis of Interpretable Mushroom Classification using Several Machine Learning Models
@@ -11,16 +11,16 @@ Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/1QkVspkx6AOeT1ozjhWFp5DD9-2ZQHEUEh6ol64Plzlw/edit?usp=sharing
 
 Paper submission date (to workshop/conference):
-05-September-2022
+09-September-2022
 
 Paper submission ID: (received) from conference/workshop
-3685
+15
 
 Conference Name:
-The Seventh International Conference on Data Mining and Big Data (DMBD'2022)
+25th International Conference on Computer and Information Technology (ICCIT2022)
 
 Conference URL:
-https://iasei.org/dmbd2022/
+https://iccit.org.bd/2022/home/
 
 Group Number:
 6
