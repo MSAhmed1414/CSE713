@@ -12,6 +12,10 @@ https://www.datacamp.com/statement-of-accomplishment/course/2008b9083cee9c5b3e0c
 
 was active in slack:
 https://bucse713summer2022.slack.com/archives/C03HKQDATGU/p1661594733239579
+https://bucse713summer2022.slack.com/archives/C03HEFQHS21/p1654072381358219
+https://bucse713summer2022.slack.com/archives/C03HEFQHS21/p1654079664346979
+https://bucse713summer2022.slack.com/archives/C03HKQ8MZN0/p1659707444356369
+https://bucse713summer2022.slack.com/archives/C03HKQ8MZN0/p1655143765257579
 
 Submitter:
 21366035 Md. Sabbir Ahmed
