@@ -9,21 +9,9 @@ https://www.datacamp.com/statement-of-accomplishment/course/2ee9b6d9f009e1eea54c
 https://www.datacamp.com/statement-of-accomplishment/course/2008b9083cee9c5b3e0c2977908447b3c71a9484?share=true
 
 
-completed youtube video:
-http://youtube....
-
-completed book:
-http://book
-
-did project:
-.....
-
-did something else
-...
 
 was active in slack:
-http://slack post URL1
-http://slack post URL2
+https://bucse713summer2022.slack.com/archives/C03HKQDATGU/p1661594733239579
 
 Submitter:
-12345678 Name A
+21366035 Md. Sabbir Ahmed
